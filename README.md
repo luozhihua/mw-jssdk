@@ -1,5 +1,7 @@
 # mw-jssdk
 
+[![Join the chat at https://gitter.im/luozhihua/mw-jssdk](https://badges.gitter.im/luozhihua/mw-jssdk.svg)](https://gitter.im/luozhihua/mw-jssdk?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Magicwindow Javascript SDK.
 
 ```
